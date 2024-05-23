@@ -1,2 +1,5 @@
 # AoC2023
-Mana's AoC 2023 solves
+A collection of Mana's solves for Advent of Code 2023
+https://adventofcode.com/
+
+Done using Python
