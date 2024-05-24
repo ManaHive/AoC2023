@@ -62,4 +62,4 @@ for i in input:
 
 print(f"Total Points: {totalPts}")
 print(f"Total Number of Cards: {totalCard}")
-print("--- %s seconds ---" % (time.time() - start_time))
+print(f"--- {time.time() - start_time} seconds ---")
